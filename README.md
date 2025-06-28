@@ -137,4 +137,4 @@ Aplikasi ini dilisensikan di bawah [MIT License](LICENSE).
 
 ## 👨‍💻 Pengembang
 
-Dibuat dengan ❤️ oleh Wisnu - 2025
+Dibuat dengan ❤️ oleh bintang - 2025
